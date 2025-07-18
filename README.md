@@ -41,4 +41,4 @@ This repository contains all scripts required to reproduce the numerical simulat
 ## ✉️ Contact
 
 For questions or replication of results:  
-enriquehdz@ieee.com
+enriquehdz@ieee.org
